@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Oldfield67
+- 👀 I’m interested in farming applications for LoRa technology, Arduino appliactions in Amateur Radio (Ham radio) and Arduino applications in solar tracking.
+- 📫 You can reach me on levitate67@gmail.com
